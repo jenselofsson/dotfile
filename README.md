@@ -1,2 +1,2 @@
-# dotfile
-Collection of dotfiles
+# dotfiles
+Collection of dotfiles.
